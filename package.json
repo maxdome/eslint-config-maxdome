@@ -6,8 +6,8 @@
   "author": "Chris Neuhäuser <chris@type10.com> (http://type10.com)",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^2.4.0",
-    "eslint-config-airbnb": "^6.1.0",
+    "eslint": "^2.5.3",
+    "eslint-config-airbnb": "^6.2.0",
     "eslint-plugin-react": "^4.2.3"
   }
 }
