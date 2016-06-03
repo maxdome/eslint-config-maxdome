@@ -6,8 +6,16 @@
   "author": "Chris Neuhäuser <chris@type10.com> (http://type10.com)",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^2.5.3",
-    "eslint-config-airbnb": "^6.2.0",
-    "eslint-plugin-react": "^4.2.3"
+    "eslint": "^2.11.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-config-react": "^1.1.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-react": "^5.1.1"
+  },
+  "peerDependencies": {
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-config-react": "^1.1.1"
   }
 }
