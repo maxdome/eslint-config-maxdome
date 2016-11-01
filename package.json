@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-type10",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "TYPE10's ESLint config",
   "main": "index.js",
   "author": "Chris Neuhäuser <chris@type10.com> (http://type10.com)",
