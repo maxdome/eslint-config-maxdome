@@ -1,5 +1,5 @@
 module.exports = {
-    extends: ['type10'],
+    extends: ['mxd'],
     env: {
         node: true,
         es6: true
@@ -8,4 +8,3 @@ module.exports = {
         generators: true
     }
 };
-

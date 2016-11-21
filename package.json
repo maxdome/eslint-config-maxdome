@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-type10",
+  "name": "eslint-config-mxd",
   "version": "2.0.0",
-  "description": "TYPE10's ESLint config",
+  "description": "Generic Maxdome eslint configuration",
   "main": "index.js",
   "author": "Chris Neuhäuser <chris@type10.com> (http://type10.com)",
   "license": "MIT"

@@ -1,5 +1,5 @@
 module.exports = {
-    extends: ['type10/node'],
+    extends: ['mxd/node'],
     env: {
         mocha: true
     },
@@ -9,4 +9,3 @@ module.exports = {
         'import/no-extraneous-dependencies': ['error', { devDependencies: true }]
     }
 };
-
