@@ -1,8 +1,20 @@
 {
   "name": "eslint-config-mxd",
   "version": "2.0.0",
-  "description": "Generic Maxdome eslint configuration",
+  "description": "Generic Maxdome ESLint configuration",
   "main": "index.js",
-  "author": "Chris Neuhäuser <chris@type10.com> (http://type10.com)",
-  "license": "MIT"
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxdome/eslint-config-mxd.git"
+  },
+  "author": "maxdome GmbH",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
