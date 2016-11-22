@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['mxd/react', 'mxd/test'],
+  extends: ['maxdome/react', 'maxdome/test'],
   rules: {
     'padded-blocks': 0,
     'no-multi-spaces': 0,

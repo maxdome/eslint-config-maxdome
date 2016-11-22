@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['airbnb', 'mxd'],
+  extends: ['airbnb', 'maxdome'],
   plugins: [
     'react'
   ],

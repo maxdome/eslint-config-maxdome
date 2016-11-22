@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['mxd'],
+  extends: ['maxdome'],
   env: {
     mocha: true
   },

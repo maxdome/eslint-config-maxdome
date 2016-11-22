@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-mxd",
+  "name": "eslint-config-maxdome",
   "version": "2.0.0",
   "description": "Generic Maxdome ESLint configuration",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxdome/eslint-config-mxd.git"
+    "url": "git+https://github.com/maxdome/eslint-config-maxdome.git"
   },
   "author": "maxdome GmbH",
   "license": "MIT",

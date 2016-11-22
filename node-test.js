@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['mxd/node', 'mxd/test'],
+  extends: ['maxdome/node', 'maxdome/test'],
   rules: {
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }]
   }
